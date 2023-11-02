@@ -8,6 +8,6 @@ Hi there 👋
 
 💬 Ask me about Swift, iOS Programming, and system design to delve into insightful discussions and explore the intricacies of building powerful and intuitive applications.
 
-📫 How to reach me: Feel free to reach out to me via email at sadegh.bardouei@gmail.com or visit my personal website at bardouei.github.io to learn more about my projects and connect with me.
+📫 How to reach me: Feel free to reach out to me via email at sadegh.bardouei@gmail.com or visit my personal website at https://bardouei.github.io to learn more about my projects and connect with me.
 
 ⚡ Fun fact: I'm fantastic at creating elegant and efficient code that brings ideas to life, one line at a time. Let's collaborate and turn visionary concepts into tangible and impactful solutions.
