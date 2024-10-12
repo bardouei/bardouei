@@ -1,31 +1,16 @@
-Hello! 👋
+Hi there 👋
 
-I am an iOS developer dedicated to creating innovative applications with a strong emphasis on user-centric design and functionality.
+🔭 I’m currently working by myself, developing innovative iOS applications with a focus on user-centric design and functionality.
 
-Professional Focus
+🌱 I’m currently learning Advanced Swift to elevate my expertise and create more robust and efficient code for seamless user experiences.
 
-Development: Independently developing cutting-edge iOS applications.
-Learning: Advancing my expertise in Advanced Swift to craft robust and efficient code for seamless user experiences.
-Collaboration Opportunities
+👯 I’m looking to collaborate with High-tech companies to contribute my skills and knowledge in building cutting-edge mobile applications that redefine industry standards.
 
-I am looking to collaborate with high-tech companies to apply my skills in building mobile applications that redefine industry standards.
+💬 Ask me about Swift, iOS Programming, and system design to delve into insightful discussions and explore the intricacies of building powerful and intuitive applications.
 
-Expertise
+📫 How to reach me: Feel free to reach out to me via email at sadegh.bardouei@gmail.com or visit my personal website at https://bardouei.github.io to learn more about my projects and connect with me.
 
-Feel free to engage with me on:
-
-Swift
-iOS Programming
-System Design
-I am always open to insightful discussions about building powerful and intuitive applications.
-
-Contact
-
-📧 Email: sadegh.bardouei@gmail.com
-🌐 Website: bardouei.github.io
-Let's Connect
-
-I excel at crafting elegant and efficient code that brings ideas to life. Let's collaborate to transform visionary concepts into impactful solutions.
+⚡ Fun fact: I'm fantastic at creating elegant and efficient code that brings ideas to life, one line at a time. Let's collaborate and turn visionary concepts into tangible and impactful solutions.
 
 ### Social networks
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
