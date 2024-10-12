@@ -11,3 +11,5 @@ Hi there 👋
 📫 How to reach me: Feel free to reach out to me via email at sadegh.bardouei@gmail.com or visit my personal website at https://bardouei.github.io to learn more about my projects and connect with me.
 
 ⚡ Fun fact: I'm fantastic at creating elegant and efficient code that brings ideas to life, one line at a time. Let's collaborate and turn visionary concepts into tangible and impactful solutions.
+
+[![bardouei github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=USERNAME&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
