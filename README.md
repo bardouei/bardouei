@@ -12,21 +12,21 @@ Hi there 👋
 
 ⚡ Fun fact: I'm fantastic at creating elegant and efficient code that brings ideas to life, one line at a time. Let's collaborate and turn visionary concepts into tangible and impactful solutions.
 
-### Sousal media
+### Social networks
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 
 [![Sadegh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bardouei&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Sadegh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bardouei&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bardouei&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bardouei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projects
-- [i2t: OCR for all languages](https://github.com/username/i2t) - An OCR tool for converting images to text in any language.
-- [LabelingApp](https://github.com/username/labelingapp) - A tool for image annotation and labeling.
+- [i2t: OCR for all languages](https://github.com/bardouei/i2t) - An OCR tool for converting images to text in any language.
 
 [![Sadegh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bardouei)](https://github.com/anuraghazra/github-readme-stats)
