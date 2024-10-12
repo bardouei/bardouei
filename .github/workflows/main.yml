@@ -10,19 +10,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
-      - uses: Platane/snk@v3
+      - uses: Platane/snk@v3  # مطمئن شوید که از نسخه v3 استفاده می‌کنید
         with:
-          github_user_name: ${{ github.repository_owner }}  # نام کاربری مخزن را به‌طور خودکار دریافت می‌کند
-          outputs: |  # مسیرهای فایل‌های خروجی
+          github_user_name: ${{ github.repository_owner }}  # یا نام کاربری خود را به‌صورت مستقیم وارد کنید
+          outputs: |  # فایل‌های خروجی را مشخص کنید
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
-          target_branch: output  # انتشار فایل‌ها به شاخه 'output'
+          target_branch: output  # انتشار به شاخه 'output'
           build_dir: dist  # پوشه‌ای که فایل‌های خروجی ذخیره می‌شوند
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # استفاده از توکن پیش‌فرض GitHub برای انتشار
