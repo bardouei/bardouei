@@ -29,6 +29,14 @@ Hi there 👋
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white&style=for-the-badge)
 ![AI](https://img.shields.io/badge/-AI-FF6600?logo=ai&logoColor=white&style=for-the-badge)
+![XCTest](https://img.shields.io/badge/-XCTest-5FCF80?logo=xcode&logoColor=white&style=for-the-badge)
+![RxSwift](https://img.shields.io/badge/-RxSwift-DF3A56?logo=swift&logoColor=white&style=for-the-badge)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-0066FF?logo=swift&logoColor=white&style=for-the-badge)
+![Xcode Profiling Tool](https://img.shields.io/badge/-Instruments-0095FF?logo=xcode&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Xcode](https://img.shields.io/badge/-Xcode-1575F9?logo=xcode&logoColor=white&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+
 
 [![Sadegh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bardouei&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
