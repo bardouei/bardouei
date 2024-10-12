@@ -13,6 +13,9 @@ Hi there 👋
 ⚡ Fun fact: I'm fantastic at creating elegant and efficient code that brings ideas to life, one line at a time. Let's collaborate and turn visionary concepts into tangible and impactful solutions.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Website Badge](https://img.shields.io/badge/-Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://bardouei.github.io)
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sadegh.bardouei@gmail.com)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge)
@@ -36,7 +39,6 @@ Hi there 👋
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?logo=xcode&logoColor=white&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
-
 
 [![Sadegh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bardouei&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
