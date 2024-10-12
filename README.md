@@ -29,3 +29,4 @@ Hi there 👋
 - [i2t: OCR for all languages](https://github.com/bardouei/i2t) - An OCR tool for converting images to text in any language.
 
 ![GitHub Snake Animation](https://github.com/bardouei/bardouei/blob/output/github-contribution-grid-snake.svg)
+
