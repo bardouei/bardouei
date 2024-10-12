@@ -23,10 +23,3 @@ Hi there 👋
 [![Sadegh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bardouei&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Sadegh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bardouei&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bardouei&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### Projects
-- [i2t: OCR for all languages](https://github.com/bardouei/i2t) - An OCR tool for converting images to text in any language.
-
-![GitHub Snake Animation](https://github.com/bardouei/bardouei/blob/output/github-contribution-grid-snake.svg)
-
