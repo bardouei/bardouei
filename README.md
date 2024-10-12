@@ -12,4 +12,4 @@ Hi there 👋
 
 ⚡ Fun fact: I'm fantastic at creating elegant and efficient code that brings ideas to life, one line at a time. Let's collaborate and turn visionary concepts into tangible and impactful solutions.
 
-[![Sadegh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bardouei&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sadegh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bardouei&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
