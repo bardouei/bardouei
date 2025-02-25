@@ -44,5 +44,5 @@ I have a knack for transforming ideas into elegant, efficient, and impactful sol
 ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?logo=xcode&logoColor=white&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
-[![Sadegh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bardouei&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sadegh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bardouei&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
