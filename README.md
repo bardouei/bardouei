@@ -49,5 +49,4 @@ I have a knack for transforming ideas into elegant, efficient, and impactful sol
 ![Sadegh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bardouei&show_icons=true&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=bardouei&theme=onestar&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bardouei&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![GitHub Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
